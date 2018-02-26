@@ -1,3 +1,5 @@
+package com.rustyrazorblade.privatevaraccess
+
 import org.apache.cassandra.cql3.QueryProcessor
 import org.apache.commons.lang3.reflect.FieldUtils
 
